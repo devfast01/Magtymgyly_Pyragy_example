@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:name=".Myapplicaction"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/magtymguly"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/magtymguly"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Magtymgyly_Pragy"
+        tools:targetApi="31">
+        <activity
+            android:name=".aglaryn_sound"
+            android:exported="false" />
+        <activity
+            android:name=".aglaryn"
+            android:exported="false" />
+        <activity
+            android:name=".alty_gerek_sound"
+            android:exported="false" />
+        <activity
+            android:name=".alty_gerek"
+            android:exported="false" />
+        <activity
+            android:name=".boylaryna_sound"
+            android:exported="false" />
+        <activity
+            android:name=".boylaryna"
+            android:exported="false" />
+        <activity
+            android:name=".oylengin_sound"
+            android:exported="false" />
+        <activity
+            android:name=".oylengin"
+            android:exported="false" />
+        <activity
+            android:name=".turkmen_binasy_sound"
+            android:exported="false" />
+        <activity
+            android:name=".turkmen_binasy"
+            android:exported="false" />
+        <activity
+            android:name=".turkmenin_sound"
+            android:exported="false" />
+        <activity
+            android:name=".turkmenin"
+            android:exported="false" />
+        <activity
+            android:name=".goze_myhman_sound"
+            android:exported="false" />
+        <activity
+            android:name=".omru_doredijiligi"
+            android:exported="false" />
+        <activity
+            android:name=".gurgenin_Sound"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_players"
+            android:exported="false" />
+        <activity
+            android:name=".goze_myhman"
+            android:exported="false" />
+        <activity
+            android:name=".Gurgenin"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

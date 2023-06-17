@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".boylaryna">
+
+    <!-- Using CardView for CircularImageView -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="400dp"
+        android:layout_height="250dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/image_background"
+        app:cardCornerRadius="15dp">
+
+        <!-- add a Image image.png in your Drawable folder -->
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/magtymguly" />
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/myhaman"
+        android:layout_width="350dp"
+        android:layout_height="500dp"
+        android:layout_below="@+id/cardView"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="25dp"
+        android:gravity="start"
+        android:text="@string/boylaryna"
+        android:scrollbars="vertical"
+        android:textSize="20sp" />
+
+</RelativeLayout>

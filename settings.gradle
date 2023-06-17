@@ -1,0 +1,2 @@
+rootProject.name = "Magtymguly_Pyragy"
+include ':app'

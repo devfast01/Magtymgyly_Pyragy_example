@@ -1,0 +1,346 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Magtymgyly Pyragy</string>
+    <!-- Preference Titles -->
+
+    <string name="magtyguly_pragy">Magtymguly Pyragy</string>
+
+    <string name="stop">stop</string>
+    <string name="play">play</string>
+    <string name="pause">pause</string>
+
+
+    <string name="sozbasy">ömri we döredijiligi</string>
+
+    <string name="mert_kyldyn"> </string>
+
+    <string name="omur_doredijiligi">    Türkmen halkynyň beýik şahyr ogly Magtymguly Pyragy gökleň türkmenlerindendir. Ol takmynan, 1724-nji ýylda Gürgen derýasynyň boýunda, Hajygowşan diýen ýerde eneden dogulýar. Ol ömrüniň​ köpüsini​ Etrek, Gürgen, Garrygala sebitlerinde geçiripdir. Şahyr "Äleme belgilidir" diýen şygrynda Ýar geler, wagt-da gider, gaflata çykmyş gözlerim. Açaýyn diýsem açylmaz, ne agyr uýkulydyr; Bilmeýen soranlara aýdyň, bu garyb adymyz: Asly-gerkez, ýurdy-Etrek, ady-Magtymgulydyr diýip, öz adyny we niredendigini, kimlerdendigini aýdýar.
+    \nMagtymguly Pyragy başlangyç terbiýäni kakasy Döwletmämmet Azadydan alýar. Ol bu barada: "Ylym öwreden ussat-kyblam pederdir" - diýip ýazýar. Magtymguly ilki oba mekdebinde okaýar. Onuň ilkinji mugallymyna Nyýazsalyh diýer ekenler. Magtymguly örän zehinli we ýiti akylly bolupdyr. Ol dürli kitaplary çakdan- aşa köp we irginsiz okapdyr. Magtymguly ýaş wagty kakasyndan, ejesinden we obanyň garry adamlaryndan köp-köp halk rowaýatlary, goşgy-gazallary, erteki we nakyllary höwes bilen diňleýär eken. Ol kakasy Döwletmämmet Azadynyň döreden eserleriniň köpüsini ýatdan öwrenipdir.
+        \n
+        \nMagtymgulynyň zehinliligine, okuwa höwesliligine göz ýetiren Döwletmämmet onuň ylymly adam bolup ýetişmeginiň aladasyny edipdir. XVIII-nji asyrda Etrek, Ahal, Mary sebilerinde güýçli medreseler bolmandyr. Şonuň üçin hem Döwletmämmet Azady öz oglyny ilki Halajyň Gyzylaýak obasynda ýerlesýän, sol wagt güýcli hasap edilen Idris babanyň medresesinde okuwa iberýär. Magtymguly bu medresede birnäçe wagt okaýar. Soňra ol Buhara gidýär, Buharada Gögeldaş atly medresä okuwa gidýär we onda iki ýyl okaýar. Şahyr sol medresede ders berýän şiriralyly türkmen Nury Kazym ibn Bahr bilen hem tanyşýar we onuň bilen dostlaşýar. Emma medresedäki talyplaryň tertip-düzgüniniň bozuklygy Magtymgulynyň bu medresäni taşlamagyna sebäp bolýar.
+        \n
+        \nMagtymguly esasy bilimi Hywadaky «Sirgazy» medresesinde alýar. Ol «Sirgazy» medresesinde üç ýyl okaýar. Medresede berilýän dersleriň daşynda hem Gündogaryň görnükli şahyrlary: Nyzamynyň, Nesiminiň, Fizulynyň, Nowaýynyň we başgalaryň eserlerini irginsiz okaýar. Ol medresede okaýanlaryň arasynda özuni derrew tanadyp, zehinli talyplaryň hataryna goşulýar. Okuwyň ilkinji ýylynda Magtymguly talyplaryň halypasy bolýar. Soňky ýylda bolsa, mugallym özi ýok wagty ders geçirmegi-de Magtymgula ynanýar ekeni. Magtymguly öz döwrüniň iň bilimli we düşünjeli adamy bolup ýetişipdir.
+        \n
+        \nMagtymguly Pyragy XVIII-nji asyrda ýaşan, türkmen klassyky edebiýatynyň kämilleşmegine örän uly goşant goşan, türkmen edebi dilini ösdürmekde uly işler bitiren şahyrdyr.
+        \n
+        \nTürkmen halkynyň beýik şahyry Magtymguly Pyragy, takmynan 1733-nji ýylda Gürgen derýasynyň boýunda Hajygowşan diýen ýerde eneden dogulýar. Ol ömrüniň köpüsini Etrek, Gürgen, Garrygala sebit-rinde geçiripdir. Magtymguly başlangyç terbiýäni öz kakasyndan alýar.
+        \n
+        \nŞahyr ilki oba mekdebinde, soňra Halajyň Gyzylaýak obasynda ýerleşýän Idris babanyň medresesinde bilim alýar.
+        \n
+        \nBuharadaky Gögeldaş medresesine okuwa girýär, ýöne talyplaryň bozuklygy, ony bu medresäni taşlamaga mejbur edýär. Magtymguly Hywadaky Şir-gazy medresesinde okap bilim alýar we öz döwrüniň bilimli we düşünjeli adamsy bolup ýetişýär.
+        \n
+        \nMagtymguly jahankeşde adam bolupdyr. Dünýäniň köp ýerlerine syýahat etmek duýgusy onda ýaşlykda döreýär. Bu syýahatlar şahyryň dünýägaraýşyny giňeldipdir. Magtymguly oglan okatmakdan başga tanymal zergär bolupdyr we kümüşden, altyndan dürli bezeg şaýlaryny ýasapdyr. Magtymgulynyň maşgala ýagdaýy jedelli meseleleriň biri bolup durýar. Goşgularyna esaslanyp, onuň Meňli diýen gyzy söýendigini, ýöne käbir sebäplere görä alyp bilmändigi hakda alymlar netijä gelýärler. Magtymgula Akgyz diýen ýeňňesi dakylýar.
+        \n
+        \nOndan iki ogul bolup, olar hem ýaşlykda ýogalýarlar. Şahyr ogullarynyň ölümine gynanyp, "Yzlamaýan bolarmy", "Mübtela kyldy“ eserleri döredipdir. Magtymguly örän parasatly, gepe çeper, märekesöýen adamdy. Ol özüniň gowy häsiýetleri bilen halka görelde görkezipdyr, akyl-paýhasy bilen köp adamlary terbiýeläpdir.
+        \nMagtymguly, takmynan, 1807-nji ýylda Atasary diýilýän çeşmäniň boýunda, Soňudagyň ýanynda aradan çykýar. Ony kakasynyň ýanynda "Garry molla" (Eýranda) gonamçylygynda jaýlapdyrlar.
+    </string>
+
+
+    <string name="gozle_myhmandyr">
+        Göze myhmandyr
+        \n
+\nGara daşdan gara gyly saýlan göz,
+\nÇöňňeler görejiň, göze myhmandyr.
+\nGelen aş diýp gelmez, turşutmagyl ýüz.
+\nNana mähtäç däldir, söze myhmandyr.
+        \n
+\nAgyrdyr heňňamlar, uzakdyr ýollar,
+\nSoraşsa ýigitler, sözleşse tiller,
+\nBaharda açylan reňbe-reň güller
+\nBir pasyl açylar, ýaza myhmandyr.
+        \n
+\nNe azym hünärler, ne syrly işler,
+\nNe howaly daglar, belent agaçlar,
+\nAltmyş elwan, ýetmiş dürli iýmişler
+\nAgaçdan aýrylar, güýze myhmandyr.
+        \n
+\nÝigidiň bolmasa ýaragy, aty,
+\nŞony belli biliň, ýokdur gaýraty!
+\nGojaldykça, gider süňňüň kuwwaty,
+\nÝigitligiň zory dyza myhmandyr.
+        \n
+\nBu dünýä ýüzüňe gülüm-gülümdir,
+\nJepasy köp bolar, jebri zulumdyr,
+\nHer niçe ýaşasaň, ahyr ölümdir,
+\nEziz janlar tende bize myhmandyr.
+        \n
+  \n      Haky ýada salsaň hakdan gorkyňa,
+\nŞeýtan ara düşer, goýmaz erkiňe.
+\nGuba juwan, guwanmagyl görküňe,
+\nGojalar sen, görküň ýüze myhmandyr.
+        \n
+\nMagtymguly aýdar, iller, özümde,
+\nÖlüm ýadymdadyr, gorky gözümde,
+\nHer niçe ýaşasaň ýeriň ýüzünde,
+\nAdam ogly bäş gün duza myhmandyr.
+
+    </string>
+
+    <string name="turkmenin">
+        Türkmeniň
+        \n
+\nJeýhun bile bahry-Hazar arasy,
+\nÇöl üstünden öser ýeli türkmeniň,
+\nGül gunçasy, gara gözüm garasy,
+\nGara dagdan iner sili türkmeniň.
+        \n
+\nHak sylamyş, bardyr onuň saýasy,
+\nÇyrpynşar çölünde neri, maýasy,
+\nReňbe-reň gül açar ýaşyl ýaýlasy,
+\nGark bolmuş reýhana çöli türkmeniň.
+        \n
+\nAl-ýaşyl bürenip çykar perisi,
+\nKükeýip bark urar anbaryň ysy,
+\nBeg, töre, aksakal, ýurduň eýesi.
+\nKüren tutar gözel ili türkmeniň.
+        \n
+\nOl merdiň ogludyr, mertdir pederi,
+\nGörogly gardaşy, serhoşdyr seri,
+\nDagda, düzde kowsa saýýatlar, diri
+\nAla bilmez, ýolbars ogly turkmeniň.
+        \n
+\nKöňüller, ýürekler bir bolup başlar,
+\nTartsa ýygyn, erär topraklar-daşlar,
+\nBir suprada taýýar kylynsa aşlar,
+\nGöteriler ol ykbaly türkmeniň.
+        \n
+  \n      Köňül howalanar, ata çykanda,
+\nDaglar lagla döner, gyýa bakanda,
+\nBal getirer, joşup derýa akanda,
+\nBent tutdurmaz gelse sili türkmeniň.
+        \n
+\nGapyl galmaz, döwüş güni har bolmaz,
+\nGargyşa, nazara griftar bolmaz,
+\nBilbilden aýrylyp, solup saralmaz,
+\nDaýym anbar saçar güli türkmeniň.
+        \n
+\nTireler gardaşdyr, urug ýarydyr,
+\nYkballar ters gelmez — hakyň nurudyr,
+\nMertler ata çyksa söweş sarydyr,
+\nÝow üstüne ýörer ýoly türkmeniň.
+        \n
+\nSerhoş bolup çykar, jiger daglanmaz,
+\nDaşlary syndyrar, ýoly baglanmaz,
+\nGözi gaýra düşmez, köňül eglenmez,
+\nMagtymguly, sözlär tili türkmeniň.
+
+    </string>
+
+    <string name="aglaryn">
+    Geçdi diýip aglaryn
+        \n
+\nEý, ýaranlar, ömrümden
+\nGeçdi diýip aglaryn.
+\nGitdi aklym ornundan,
+\nÇaşdy diýip aglaryn.
+        \n
+\nGiden gelmez ýolundan,
+\nDönmez ýaman pälinden,
+\nDiýanat halk elinden
+\nUçdy diýip aglaryn.
+        \n
+\nHäzir biziň zamanda,
+\nÝaman sözler zybanda,
+\nZulum işler jahanda
+\nJoşdy diýip aglaryn.
+        \n
+\nBu eýýamda betkärler
+\nÝüz til bile aldarlar.
+\nKany niçe dildarlar,
+\nGeçdi diýip aglaryn.
+        \n
+\nNiçe sada deň-duşlar
+\nŞeýtan biligin başlar,
+\nÝüz dönderip gardaşlar,
+\nGaçdy diýip aglaryn.</string>
+
+    <string name="gule_menzeyar">GÜLE MEÑZÄR
+        \n
+\nEý, ýaranlar, ýagşy ýaryň
+\nGoýny jennet, güle meňzär;
+\nSözlese, dürler saçylar,
+\nDilleri bilbile meňzär.
+\n
+\nYşk ody ýandyrdy bizi,
+\nSormaňlar menden sözi,
+\nÝaryň eýgi gyzyl ýüzi
+\nGöýä Aýa-Güne meňzär.
+\n
+\nNäler çekdim derdi-pyrak,
+\nÝeteý diýsem, ýolum yrak,
+\nGalam gaşly, badam gabak,
+\nSaçlary sünbüle meňzär.
+\n
+\nZülplerine urup şana,
+\nMeni ol kyldy diwana,
+\nGöýä ol – şem, men – perwana,
+\nÝandym, tenim küle meňzär.
+\n
+\nKöýen ýok düňýäde mençe,
+\nDidar görmek ýok doýynça,
+\nDişleri dür, agzy gunça,
+\nBili inçe – gyla meňzär.
+\n
+\nGözi nerkes, boýy şemşat,
+\nKirpikleri misli polat,
+\nPeri-peýkar serwi azat,
+\nDesse-desse güle meňzär.
+\n
+\nGöwsünde bar goşa nary,
+\nAk ýüzünde jüre haly,
+\nLeblerinden akan baly
+\nŞähd ile şekere meňzär.
+\n
+\nÖzüne köpdür binasy,
+\nGeýip reňbe-reň lybasy,
+\nEline goýan hanasy,
+\nGöýä gyzyl nara meňzär.
+\n
+\nMagtymguly, bolduň harap,
+\nİsräp tapman ýary sorap,
+\nOrturyşyň ýola garap,
+\nÝol tapmadyk köre meňzär.
+ </string>
+
+    <string name="kop_bolsa"> </string>
+
+    <string name="aya_menzeyar"> </string>
+
+    <string name="tumar_gordum"> </string>
+
+    <string name="turkmen_binasy">
+    TÜRKMEN BINASY
+        \n
+\nGurdugym aslynda bilgil, bu zeminiň myhydyr,
+\nErer ol erkan mydam, budur ki türkmen binasy.
+\nTerki-dünýä eýleýip, gelse rakyplar gaşyna,
+\nBil, polatdan bina bolgan, budur türkmen galasy.
+\n
+\nSüleýman hem Rüstem, Zal, Jemşit oňa bolmuş geda,
+\nGünde ýüz müň salsa leşger, degmez şanyň belasy.
+\nDaglar ondan alar taglym, leşgeri sap-sap durar,
+\nHer salanda zülpükaryn artar ýigitniň höwesi.
+\n
+\nTeke, ýomut, ýazyr, gökleň, Ahal ili bir bolup.
+\nKylsa bir jaýga ýörüişni, açylar gül lälesi.
+\nKülli gyzylbaş baryny atdy dag arkasyna,
+\nGije-saba ýatmaýyr, geler olarnyň nalasy.
+\n
+\nHer ýan gadam ursa saýýat, bolmaýyr olduşgär,
+\nBendi kylyp alabilmez, düşmez türkmen balasy.
+\nAryflar dem-dem geler, toýy bardyr her zaman,
+\nMerdi-merdan sözüdir ol, ýokdur köňül hilesi.
+\n
+\nAýdadyr Magtymguly, ýokdur köňülde bir gara,
+\nHak sylaýyp, kylymyş nazar, bardyr onuň saýasy.
+    </string>
+
+    <string name="ucdum_yaranlar"> </string>
+
+    <string name="gelmezmi"> </string>
+
+    <string name="yat_yagsy"> </string>
+
+    <string name="oylengin"> ÖÝLENGIN
+        \n
+\nÝigit halyň garrylyga
+\nSalaýyn diýseň, öýlengin.
+\nKethudalyk endişesin
+\nKylaýyn diýseň, öýlengin.
+\n
+\nKethudalyk gözel ýoldur,
+\nGaýgy garrydar, gam öldir,
+\nÝigitlik bir gyzyl güldür,
+\nSolaýyn diýseň, öýlengin.
+\n
+\nÖý, il gerek, ýorgan-düşek,
+\nPerzent bentdir, aýal-duşak,
+\nÝüke werzişgär boz eşek
+\nBolaýyn diýseň, öýlengin.
+\n
+\nGezer sen oýnap, dalaşyp,
+\nGalar sen gama bulaşyp,
+\nHasrata, derde ulaşyp
+\nGalaýyn diýseň, öýlengin.
+\n
+\nJoşgun eder sen özüňden,
+\nAýrylar sen hoş ýazyňdan.
+\nTükenmez derdiň yzyndan
+\nÖleýin diýseň, öýlengin.
+\n
+\nÖtir ýigitlik zamanyn,
+\nGetir garrylyk dumanyn,
+\nDünýäniň ýagşy, ýamanyn
+\nBileýin diýseň, öýlengin.
+\n
+\nÝigitlik bir gyzyl gülşen,
+\nGarrylykda öçer röwşen.
+\nGujak-gujak gara ýowşan
+\nÝolaýyn diýseň, öýlengin.
+\n
+\nMagtymguly, gezip her taý,
+\nEtmezdiň jahanda perwaý,
+\nPygamber sünnetin berjaý
+\nKylaýyn diýseň, öýlengin.
+</string>
+
+    <string name="boylaryna">
+    BOÝLARYÑA
+\n
+\nÝörseň, ýarym, guwana men
+\nSerwi kamat boýlaryňa,
+\nGülden puşeş ýaraşypdyr
+\nAjap raht boýlaryňa.
+\n
+\nMen — bilbile eýläp azar,
+\nAldyň şirin janym nisar,
+\nZüleýhadan galan zünnar
+\nBolsun hajat boýlaryňa!
+\n
+\nGörsem roýuň, ýok armanym,
+\nSensiz hazan ursun janym,
+\nYkbalym, dinim-imanym
+\nKylam hormat boýlaryňa.
+\n
+\nYşkyň bilen men dat eýläp,
+\nÖwrenip men, adat eýläp,
+\nÖmür-ahyr perýat eýläp,
+\nÝetmez lahat boýlaryňa.
+\n
+\nGören aşyk geda bolar,
+\nIl-gününden jyda bolar,
+\nMagtymguly, pida bolar
+\nDin-keramat boýlaryňa.
+
+    </string>
+
+    <string name="alty_gerek">
+     ATY GEREK
+        \n
+\nAt gazanar goç ýigidiň
+\nOwwal bedew aty gerek.
+\nGelene garşy çykmaga
+\nÝagşy muhapbeti gerek.
+\n
+\nMert gerek jepa çekmäge,
+\nAt gerek dere sökmäge,
+\nSupra ýaýyp, nan dökmäge
+\nKöňlüniň hümmeti gerek.
+\n
+\nEl götergil ham hyýaldan,
+\nSaňa yssyg ýokdur maldan,
+\nRuzygär geçse halaldan,
+\nAryflar söhbeti gerek.
+\n
+\nÝöriseň gulluk kylmaga,
+\nPygamber ýolun bilmäge,
+\nDerwüşler köňlün almaga,
+\nElinde döwleti gerek.
+\n
+\nMagtymguly bir gedaýdyr,
+\nBarçany saklan hudaýdyr,
+\nEger misgin, eger baýdyr –
+\nGelene hyzmaty gerek. </string>
+
+
+</resources>
+
